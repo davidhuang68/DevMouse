@@ -24,16 +24,16 @@ The goal is to build a complete custom USB mouse instead of modifying an existin
 
 | Part | Quantity | Purpose | Estimated Cost |
 |---|---:|---|---:|
-| RP2040 microcontroller board/chip | 1 | USB HID controller for mouse movement and shortcuts | $10 CAD |
-| Optical mouse sensor/module | 1 | Detects mouse movement | $30 CAD |
-| Scroll wheel encoder | 1 | Scroll wheel input | $5 CAD |
-| Mouse switches | 3 | Left, right, and middle click | $10 CAD |
-| Tactile side buttons | 2 | Copy and paste macro buttons | $3 CAD |
-| USB-C connector/breakout | 1 | Wired USB connection | $3 CAD |
-| Custom PCB | 1 order | Holds electronics and wiring | $25 CAD |
-| Screws / heat-set inserts | Several | Assembly hardware | $6 CAD |
-| 3D printer filament | Small amount | Printed ergonomic shell | $5 CAD |
-| **Total** |  |  | **$97 CAD** |
+| RP2040 microcontroller board/chip | 1 | USB HID controller for mouse movement and shortcuts | $5 CAD |
+| Optical mouse sensor/module | 1 | Detects mouse movement | $18 CAD |
+| Scroll wheel encoder | 1 | Scroll wheel input | $2 CAD |
+| Mouse switches | 3 | Left, right, and middle click | $4 CAD |
+| Tactile side buttons | 2 | Copy and paste macro buttons | $1 CAD |
+| USB-C connector/breakout | 1 | Wired USB connection | $2 CAD |
+| Custom PCB | 1 order | Holds electronics and wiring | $10 CAD |
+| Screws / heat-set inserts | Several | Assembly hardware | $4 CAD |
+| 3D printer filament | Small amount | Printed ergonomic shell | $3 CAD |
+| **Total** |  |  | **$49 CAD** |
 
 
 ## Current Status

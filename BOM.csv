@@ -1,11 +1,11 @@
 Part,Quantity,Purpose,Estimated Cost,Link
-RP2040 microcontroller board/chip,1,USB HID controller for mouse movement and shortcuts,$10 CAD,TBD
-Optical mouse sensor/module,1,Detects mouse movement,$30 CAD,TBD
-Scroll wheel encoder,1,Scroll wheel input,$5 CAD,TBD
-Mouse switches,3,Left right and middle click,$10 CAD,TBD
-Tactile side buttons,2,Copy and paste macro buttons,$3 CAD,TBD
-USB-C connector/breakout,1,Wired USB connection,$3 CAD,TBD
-Custom PCB,1 order,Holds electronics and wiring,$25 CAD,TBD
-Screws / heat-set inserts,Several,Assembly hardware,$6 CAD,TBD
-3D printer filament,Small amount,Printed ergonomic shell,$5 CAD,TBD
-Total,,, $97 CAD,
+RP2040 microcontroller board/chip,1,USB HID controller for mouse movement and shortcuts,$5 CAD,TBD
+Optical mouse sensor/module,1,Detects mouse movement,$18 CAD,TBD
+Scroll wheel encoder,1,Scroll wheel input,$2 CAD,TBD
+Mouse switches,3,Left right and middle click,$4 CAD,TBD
+Tactile side buttons,2,Copy and paste macro buttons,$1 CAD,TBD
+USB-C connector/breakout,1,Wired USB connection,$2 CAD,TBD
+Custom PCB,1 order,Holds electronics and wiring,$10 CAD,TBD
+Screws / heat-set inserts,Several,Assembly hardware,$4 CAD,TBD
+3D printer filament,Small amount,Printed ergonomic shell,$3 CAD,TBD
+Total,,,$49 CAD,
